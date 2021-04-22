@@ -4,4 +4,8 @@ public class Xyz
 	{
 		System.out.println("Just for demo");
 	}
+	public void somedisplay()
+	{
+		System.out.println("some display");
+	}
 }
